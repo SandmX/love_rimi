@@ -1,8 +1,3 @@
-"""
-============================================
-    coding: utf-8
-    @Ide: PyCharm
-    @Time: 2024/8/15 19:24
-    @Author: Sandm
-============================================
-"""
+__author__ = 'Sandmeyer<sandmx.work@gmail.com>'
+__version__ = '0.0.0.1'
+__license__ = 'GNU v3.0'
