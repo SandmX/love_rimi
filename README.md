@@ -17,23 +17,24 @@ ProjectName and Description
 <br />
 
 <p align="center">
-  <a href="https://github.com/shaojintian/Best_README_template/">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/SandmX/love_rimi">
+    <img src="static/img/logo.png" alt="Logo" width="150" height="120">
   </a>
 
   <h3 align="center">"完美的"README模板</h3>
   <p align="center">
     一个"完美的"README模板去快速开始你的项目！
     <br />
-    <a href="https://github.com/shaojintian/Best_README_template"><strong>探索本项目的文档 »</strong></a>
+    <a href="https://github.com/SandmX/love_rimi"><strong>探索本项目的文档 »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/shaojintian/Best_README_template">查看Demo</a>
+    <a href="https://github.com/SandmX/love_rimi/tree/main/test/example">查看Demo</a>
     ·
-    <a href="https://github.com/shaojintian/Best_README_template/issues">报告Bug</a>
+    <a href="https://github.com/SandmX/love_rimi/issues">报告Bug</a>
     ·
-    <a href="https://github.com/shaojintian/Best_README_template/issues">提出新特性</a>
+    <a href="https://github.com/SandmX/love_rimi/issues">提出新特性</a>
   </p>
+
 
 </p>
 
@@ -57,7 +58,7 @@ ProjectName and Description
 
 ### 上手指南
 
-请将所有链接中的“shaojintian/Best_README_template”改为“your_github_name/your_repository”
+请将所有链接中的“sandmx/love_rimi”改为“your_github_name/your_repository”
 
 
 
@@ -72,29 +73,23 @@ ProjectName and Description
 2. Clone the repo
 
 ```sh
-git clone https://github.com/shaojintian/Best_README_template.git
+git clone https://github.com/sandmx/love_rimi.git
 ```
 
 ### 文件目录说明
-eg:
+
 
 ```
 filetree 
-├── ARCHITECTURE.md
-├── LICENSE.txt
-├── README.md
-├── /account/
-├── /bbs/
-├── /docs/
-│  ├── /rules/
-│  │  ├── backend.txt
-│  │  └── frontend.txt
-├── manage.py
-├── /oa/
-├── /static/
-├── /templates/
-├── useless.md
-└── /util/
+├── README.md     
+├── LICENSE       许可文件
+├── /static/      静态文件夹 存放资源
+├── /love_rimi/   love_rimi 包
+│  ├── /this_un/  this_un 包
+│  │  ├── /lang/  语言包存放目录
+├── /test/
+│  ├── /example/  示例目录
+├── lang_maker.py 制作语言包脚本
 
 ```
 
@@ -104,7 +99,7 @@ filetree
 
 ### 开发的架构 
 
-请阅读[ARCHITECTURE.md](https://github.com/shaojintian/Best_README_template/blob/master/ARCHITECTURE.md) 查阅为该项目的架构。
+暂无
 
 ### 部署
 
@@ -117,6 +112,8 @@ filetree
 - [xxxxxxx](https://laravel.com)
 
 ### 贡献者
+
+[Sandmeyer](https://github.com/sandmx)
 
 请阅读**CONTRIBUTING.md** 查阅为该项目做出贡献的开发者。
 
@@ -139,7 +136,7 @@ filetree
 
 ### 作者
 
-xxx@xxxx
+sandmx.work@gmail.com
 
 知乎:xxxx  &ensp; qq:xxxxxx    
 
@@ -147,7 +144,7 @@ xxx@xxxx
 
 ### 版权说明
 
-该项目签署了MIT 授权许可，详情请参阅 [LICENSE.txt](https://github.com/shaojintian/Best_README_template/blob/master/LICENSE.txt)
+该项目签署了GNU v3.0 授权许可，详情请参阅 [LICENSE](https://github.com/SandmX/love_rimi/blob/main/LICENSE)
 
 ### 鸣谢
 
@@ -160,19 +157,19 @@ xxx@xxxx
 - [xxxxxxxxxxxxxx](https://connoratherton.com/loaders)
 
 <!-- links -->
-[your-project-path]:shaojintian/Best_README_template
-[contributors-shield]: https://img.shields.io/github/contributors/shaojintian/Best_README_template.svg?style=flat-square
-[contributors-url]: https://github.com/shaojintian/Best_README_template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/shaojintian/Best_README_template.svg?style=flat-square
-[forks-url]: https://github.com/shaojintian/Best_README_template/network/members
-[stars-shield]: https://img.shields.io/github/stars/shaojintian/Best_README_template.svg?style=flat-square
-[stars-url]: https://github.com/shaojintian/Best_README_template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/shaojintian/Best_README_template.svg?style=flat-square
-[issues-url]: https://img.shields.io/github/issues/shaojintian/Best_README_template.svg
-[license-shield]: https://img.shields.io/github/license/shaojintian/Best_README_template.svg?style=flat-square
-[license-url]: https://github.com/shaojintian/Best_README_template/blob/master/LICENSE.txt
+[your-project-path]:SandmX/love_rimi/
+[contributors-shield]: https://img.shields.io/github/contributors/SandmX/love_rimi.svg?style=flat-square
+[contributors-url]: https://github.com/sandmx/love_rimi/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/sandmx/love_rimi.svg?style=flat-square
+[forks-url]: https://github.com/sandmx/love_rimi/network/members
+[stars-shield]: https://img.shields.io/github/stars/sandmx/love_rimi.svg?style=flat-square
+[stars-url]: https://github.com/sandmx/love_rimi/stargazers
+[issues-shield]: https://img.shields.io/github/issues/sandmx/love_rimi.svg?style=flat-square
+[issues-url]: https://img.shields.io/github/issues/sandmx/love_rimi.svg
+[license-shield]: https://img.shields.io/github/license/sandmx/love_rimi.svg?style=flat-square
+[license-url]: https://github.com/SandmX/love_rimi/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/shaojintian
+[linkedin-url]: https://linkedin.com/in/sandmx
 
 
 
