@@ -16,3 +16,4 @@ def this(lang_fn: str) -> None:
     s = line_1to2.replace(read_line(lang_f, 1), '')
     k = int(read_line(lang_f, 3).replace(line_1to2, ''))
     print(decrypt(s, k))
+

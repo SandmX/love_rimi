@@ -2,8 +2,8 @@ from love_rimi.this_un import this_un
 
 
 # Type language name here (must exist in pkg/this_un/lang)
-language_name = 'ar'
-this_un.this('de')
+language_name = 'de'
+this_un.this(language_name)
 
 
 """

@@ -1,8 +1,8 @@
 
 
-# ProjectName
+# love_rimi
 
-ProjectName and Description
+A package used to describe the love between Rimi and Sandmeyer
 
 <!-- PROJECT SHIELDS -->
 
@@ -20,10 +20,9 @@ ProjectName and Description
   <a href="https://github.com/SandmX/love_rimi">
     <img src="static/img/logo.png" alt="Logo" width="150" height="120">
   </a>
-
-  <h3 align="center">"完美的"README模板</h3>
+  <h3 align="center">love_rimi</h3>
   <p align="center">
-    一个"完美的"README模板去快速开始你的项目！
+    A package used to describe the love between Rimi and Sandmeyer
     <br />
     <a href="https://github.com/SandmX/love_rimi"><strong>探索本项目的文档 »</strong></a>
     <br />
@@ -34,6 +33,7 @@ ProjectName and Description
     ·
     <a href="https://github.com/SandmX/love_rimi/issues">提出新特性</a>
   </p>
+
 
 
 </p>
